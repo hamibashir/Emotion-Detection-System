@@ -3,6 +3,7 @@
 This project analyzes facial expressions live via webcam to detect 7 human emotions — built completely from scratch in Python using modern AI tools.
 
 🔍 Key Highlights
+
  ✅ Real-time emotion detection via webcam
  
  ✅ 1,404 facial features extracted using MediaPipe (468 3D landmarks)
