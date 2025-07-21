@@ -4,10 +4,15 @@ This project analyzes facial expressions live via webcam to detect 7 human emoti
 
 🔍 Key Highlights
  ✅ Real-time emotion detection via webcam
+ 
  ✅ 1,404 facial features extracted using MediaPipe (468 3D landmarks)
+ 
  ✅ Emotion classification with Random Forest (Scikit-learn)
+ 
  ✅ Live visual feedback with overlay labels
+ 
  ✅ Hyperparameter tuning for optimized accuracy
+ 
  ✅ Applications in HCI, mental health, CX analysis & EdTech
 
 🛠️ Tech Stack
